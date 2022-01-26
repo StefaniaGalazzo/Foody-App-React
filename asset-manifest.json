@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/StefaniaGalazzo/Foody-App-React/static/css/main.171ba59d.css",
-    "main.js": "/StefaniaGalazzo/Foody-App-React/static/js/main.412b8673.js",
-    "static/media/meals.jpg": "/StefaniaGalazzo/Foody-App-React/static/media/meals.2971f633fc1382581cbf.jpg",
-    "index.html": "/StefaniaGalazzo/Foody-App-React/index.html",
-    "main.171ba59d.css.map": "/StefaniaGalazzo/Foody-App-React/static/css/main.171ba59d.css.map",
-    "main.412b8673.js.map": "/StefaniaGalazzo/Foody-App-React/static/js/main.412b8673.js.map"
+    "main.css": "/Foody-App-React/static/css/main.171ba59d.css",
+    "main.js": "/Foody-App-React/static/js/main.058a35ae.js",
+    "static/media/meals.jpg": "/Foody-App-React/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/Foody-App-React/index.html",
+    "main.171ba59d.css.map": "/Foody-App-React/static/css/main.171ba59d.css.map",
+    "main.058a35ae.js.map": "/Foody-App-React/static/js/main.058a35ae.js.map"
   },
   "entrypoints": [
     "static/css/main.171ba59d.css",
-    "static/js/main.412b8673.js"
+    "static/js/main.058a35ae.js"
   ]
 }
