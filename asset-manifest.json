@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/StefaniaGalazzo/Foody-App-React/static/css/main.171ba59d.css",
+    "main.js": "/StefaniaGalazzo/Foody-App-React/static/js/main.412b8673.js",
+    "static/media/meals.jpg": "/StefaniaGalazzo/Foody-App-React/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/StefaniaGalazzo/Foody-App-React/index.html",
+    "main.171ba59d.css.map": "/StefaniaGalazzo/Foody-App-React/static/css/main.171ba59d.css.map",
+    "main.412b8673.js.map": "/StefaniaGalazzo/Foody-App-React/static/js/main.412b8673.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.171ba59d.css",
+    "static/js/main.412b8673.js"
+  ]
+}
